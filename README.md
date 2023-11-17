@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on my grade 10 computer science credit
 - 🌱 I’m currently learning HTML and Python
 - 🤔 I’m looking for help with coding in general
-- ⚡ Fun fact: One day you will have to answer for your actions,and god may not be so merciful.....
+- ⚡ Fun fact: You don't have much time left...
 -->
